@@ -50,11 +50,15 @@ Including Customer Insights, Shipping Efficiency, Sales Composition and Geograph
 
 Summary of the insights
 --
-Supply Chain: Avg Shipping Delay keeps on increasing by an average of one hour per year, % of risk is extremly high for the business and due to which order item quantity decreased by 22.76% for the year 2017
+𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧:The average shipping delay has been consistently increasing by approximately one hour per year. The percentage of late delivery risk is critically high, contributing to a 22.76% decline in order item quantity in 2017.
 
-Customer Insight: Out of 11 departments 6 departments are in loses and only remaining 5 of them are profitable, customers were increased to 48.27% percent from 2016 to 2017.
+𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐈𝐧𝐬𝐢𝐠𝐡𝐭: Out of 11 departments 6 departments are in loses and only remaining 5 of them are profitable, customers were increased to 48.27% percent from 2016 to 2017.
 
-Shipping Efficiency: 
+𝐒𝐡𝐢𝐩𝐩𝐢𝐧𝐠 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲: The average shipping delay is around 15 hours, which may have contributed to the decline in order quantity observed in 2017.
+
+𝐌𝐚𝐩: The primary markets are located in North and South America, Europe, and Asia-Pacific regions.
+
+𝐒𝐚𝐥𝐞𝐬 The majority of profits are generated from regular consumers and corporate clients.
 
 
 
