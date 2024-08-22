@@ -4,7 +4,7 @@ Including Customer Insights, Shipping Efficiency, Sales Composition and Geograph
 ![powerbi_v2](https://github.com/user-attachments/assets/884c94b3-4505-45d9-8a59-8124f6ec2de2)
 
 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬
-![customerinsights](https://github.com/user-attachments/assets/13cd9fb7-95c0-4a63-aab1-cde64fc24ebe)
+![customerinsights](https://github.com/user-attachments/assets/6e67c066-d42b-4ce9-994c-2027a6201d58)
 
 𝐒𝐡𝐢𝐩𝐩𝐢𝐧𝐠 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲
 ![shipping efficiency](https://github.com/user-attachments/assets/9d17dc17-89f5-4768-8a63-5cf8f2688cd1)
