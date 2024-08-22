@@ -13,5 +13,6 @@ Including Customer Insights, Shipping Efficiency, Sales Composition and Geograph
 ![geo](https://github.com/user-attachments/assets/fab503a8-c545-4dd8-af0d-802a9ab7cb87)
 
 𝐒𝐚𝐥𝐞𝐬 𝐃𝐞𝐜𝐨𝐦𝐩𝐨𝐬𝐢𝐭𝐢𝐨𝐧
-![sales decomposition](https://github.com/user-attachments/assets/5020ca24-90d4-447c-86c3-ecc7748de600)
+![20240822211542](https://github.com/user-attachments/assets/936149b2-b924-4249-ae58-af30982dc191)
+
 
