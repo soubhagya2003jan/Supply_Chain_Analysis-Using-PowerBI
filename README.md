@@ -15,8 +15,8 @@ Including Customer Insights, Shipping Efficiency, Sales Composition and Geograph
 𝐒𝐚𝐥𝐞𝐬 𝐃𝐞𝐜𝐨𝐦𝐩𝐨𝐬𝐢𝐭𝐢𝐨𝐧
 ![sales decomposition](https://github.com/user-attachments/assets/81085b37-8ece-4b65-836d-ed5cf7ca4507)
 
-𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝 𝐈𝐧 𝐓𝐡𝐢𝐬 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
-<br />
+𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝 𝐈𝐧 𝐓𝐡𝐢𝐬 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 <br />
+--
 • PowerBi <br />
 • Power Query and Excel is used to perform the ETL on the dataset <br />
 • Figma Ui For Dashboard Design and layout <br />
