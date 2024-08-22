@@ -17,10 +17,10 @@ Including Customer Insights, Shipping Efficiency, Sales Composition and Geograph
 
 Tools Used In This Project
 <br />
-• PowerBi
-• Power Query and Excel is used to perform the ETL on the dataset
-• Figma Ui For Dashboard Design and layout
-• Jira is used to track kpi's requirement and other requirement
+• PowerBi <br />
+• Power Query and Excel is used to perform the ETL on the dataset <br />
+• Figma Ui For Dashboard Design and layout <br />
+• Jira is used to track kpi's requirement and other requirement <br />
 
 NSM (North Star Metrics) for the dataset
 <br />
