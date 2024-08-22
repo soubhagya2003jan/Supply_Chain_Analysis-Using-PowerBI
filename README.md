@@ -9,7 +9,7 @@ Including Customer Insights, Shipping Efficiency, Sales Composition and Geograph
 𝐒𝐡𝐢𝐩𝐩𝐢𝐧𝐠 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲
 ![shipping efficiency](https://github.com/user-attachments/assets/9d17dc17-89f5-4768-8a63-5cf8f2688cd1)
 
-𝐆𝐞𝐨𝐠𝐫𝐚𝐩𝐡𝐢𝐜 𝐒𝐮𝐩𝐩𝐥𝐲 𝐓𝐨 𝐂𝐨𝐮𝐧𝐭𝐫𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
+𝐆𝐞𝐨𝐠𝐫𝐚𝐩𝐡𝐢𝐜 𝐎𝐫𝐝𝐞𝐫 𝐒𝐮𝐩𝐩𝐥𝐲 𝐓𝐨 𝐂𝐨𝐮𝐧𝐭𝐫𝐲 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 ![geo](https://github.com/user-attachments/assets/fab503a8-c545-4dd8-af0d-802a9ab7cb87)
 
 𝐒𝐚𝐥𝐞𝐬 𝐃𝐞𝐜𝐨𝐦𝐩𝐨𝐬𝐢𝐭𝐢𝐨𝐧
