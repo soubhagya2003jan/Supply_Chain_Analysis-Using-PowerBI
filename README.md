@@ -46,7 +46,10 @@ Including Customer Insights, Shipping Efficiency, Sales Composition and Geograph
   - Orders by country and the rspective city
 
 5. Sales Decomposition 
-  - Sales breakdown by market, customer segment, department name, category name, product name
+  - Sales breakdown by market, customer segment, department name, category name, product name <b/ >
+
+Summary of the insights
+--
 
 
 
