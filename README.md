@@ -7,7 +7,7 @@ Customer Insights
 ![customerinsights](https://github.com/user-attachments/assets/bcedf3f6-2d01-4e0f-b033-809b50795291)
 
 Shipping Efficiency
-![customerinsights](https://github.com/user-attachments/assets/eeb24369-96d0-42de-99bf-191adf0166d3)
+![shipping efficiency](https://github.com/user-attachments/assets/9d17dc17-89f5-4768-8a63-5cf8f2688cd1)
 
 Geographic Supply To Country Analysis
 ![geo](https://github.com/user-attachments/assets/fab503a8-c545-4dd8-af0d-802a9ab7cb87)
