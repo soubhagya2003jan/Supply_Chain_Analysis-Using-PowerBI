@@ -25,9 +25,9 @@ Including Customer Insights, Shipping Efficiency, Sales Composition and Geograph
 
 > [!IMPORTANT]
 > 𝐍𝐒𝐌 (𝐍𝐨𝐫𝐭𝐡 𝐒𝐭𝐚𝐫 𝐌𝐞𝐭𝐫𝐢𝐜𝐬) 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐝𝐚𝐭𝐚𝐬𝐞𝐭 <br />.
---
 
 1) Supply Chain Analysis Dashboard <br />
+--
   - Total cost, total profit, total order items qty, % of late risk, average shipping days, average shipping delay <br />
   - Order supply by market <br />
   - late deliveries by month <br />
