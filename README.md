@@ -15,14 +15,15 @@ Including Customer Insights, Shipping Efficiency, Sales Composition and Geograph
 𝐒𝐚𝐥𝐞𝐬 𝐃𝐞𝐜𝐨𝐦𝐩𝐨𝐬𝐢𝐭𝐢𝐨𝐧
 ![sales decomposition](https://github.com/user-attachments/assets/81085b37-8ece-4b65-836d-ed5cf7ca4507)
 
-Tools Used In This Project
+𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝 𝐈𝐧 𝐓𝐡𝐢𝐬 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
 <br />
 • PowerBi <br />
 • Power Query and Excel is used to perform the ETL on the dataset <br />
 • Figma Ui For Dashboard Design and layout <br />
 • Jira is used to track kpi's requirement and other requirement <br />
 
-NSM (North Star Metrics) for the dataset <br />
+𝐍𝐒𝐌 (𝐍𝐨𝐫𝐭𝐡 𝐒𝐭𝐚𝐫 𝐌𝐞𝐭𝐫𝐢𝐜𝐬) 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐝𝐚𝐭𝐚𝐬𝐞𝐭 <br />
+
 • Supply Chain Analysis Dashboard <br />
   - Total cost, total profit, total order items qty, % of late risk, average shipping days, average shipping delay <br />
   - Order supply by market <br />
