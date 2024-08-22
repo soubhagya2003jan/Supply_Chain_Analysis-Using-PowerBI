@@ -1,5 +1,5 @@
 # Supply_Chain_Analysis-Using-PowerBI
-> Conducted a comprehensive analysis of supply chain and shipment trends from 2015 to 2018,
+Conducted a comprehensive analysis of supply chain and shipment trends from 2015 to 2018,
 Including Customer Insights, Shipping Efficiency, Sales Composition and Geographic Analysis.
 ![powerbi_v2](https://github.com/user-attachments/assets/884c94b3-4505-45d9-8a59-8124f6ec2de2)
 
@@ -22,31 +22,33 @@ Including Customer Insights, Shipping Efficiency, Sales Composition and Geograph
 • Figma Ui For Dashboard Design and layout <br />
 • Jira is used to track kpi's requirement and other requirement <br />
 
-𝐍𝐒𝐌 (𝐍𝐨𝐫𝐭𝐡 𝐒𝐭𝐚𝐫 𝐌𝐞𝐭𝐫𝐢𝐜𝐬) 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐝𝐚𝐭𝐚𝐬𝐞𝐭 <br />
+
+> [!IMPORTANT]
+> 𝐍𝐒𝐌 (𝐍𝐨𝐫𝐭𝐡 𝐒𝐭𝐚𝐫 𝐌𝐞𝐭𝐫𝐢𝐜𝐬) 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐝𝐚𝐭𝐚𝐬𝐞𝐭 <br />.
 --
 
-• Supply Chain Analysis Dashboard <br />
+1) Supply Chain Analysis Dashboard <br />
   - Total cost, total profit, total order items qty, % of late risk, average shipping days, average shipping delay <br />
   - Order supply by market <br />
   - late deliveries by month <br />
   - current order status, delivery method <br />
   - top 10 countries by orders <br />
   
-• Customer Insights <br />
+2) Customer Insights <br />
   - Profit,sales,cost by department
   - Total customers by year
   - Profit by customer segment
   - top 10 customers
     
-• Shipping efficiency
+3) Shipping efficiency
   - Average Shipping delay in hours
   - Total Order Items Delivered By Different Shipping Mode And Country Served
   - Total Orders Items by Order Status
 
-• Map 
+4) Map 
   - Orders by country and the rspective city
 
-• Sales Decomposition 
+5) Sales Decomposition 
   - Sales breakdown by market, customer segment, department name, category name, product name
 
 
