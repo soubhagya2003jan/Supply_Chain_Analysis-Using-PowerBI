@@ -22,16 +22,15 @@ Tools Used In This Project
 • Figma Ui For Dashboard Design and layout <br />
 • Jira is used to track kpi's requirement and other requirement <br />
 
-NSM (North Star Metrics) for the dataset
-<br />
-• Supply Chain Analysis Dashboard
-<br />
-  - Total cost, total profit, total order items qty, % of late risk, average shipping days, average shipping delay
-  - Order supply by market
-  - late deliveries by month
-  - current order status, delivery method
-  - top 10 countries by orders
-• Customer Insights
+NSM (North Star Metrics) for the dataset <br />
+• Supply Chain Analysis Dashboard <br />
+  - Total cost, total profit, total order items qty, % of late risk, average shipping days, average shipping delay <br />
+  - Order supply by market <br />
+  - late deliveries by month <br />
+  - current order status, delivery method <br />
+  - top 10 countries by orders <br />
+  
+• Customer Insights <br />
   - Profit,sales,cost by department
   - Total customers by year
   - Profit by customer segment
