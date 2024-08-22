@@ -46,12 +46,15 @@ Including Customer Insights, Shipping Efficiency, Sales Composition and Geograph
   - Orders by country and the rspective city
 
 5. Sales Decomposition 
-  - Sales breakdown by market, customer segment, department name, category name, product name <b/ >
+  - Sales breakdown by market, customer segment, department name, category name, product name
 
 Summary of the insights
 --
+Supply Chain: Avg Shipping Delay keeps on increasing by an average of one hour per year, % of risk is extremly high for the business and due to which order item quantity decreased by 22.76% for the year 2017
 
+Customer Insight: Out of 11 departments 6 departments are in loses and only remaining 5 of them are profitable, customers were increased to 48.27% percent from 2016 to 2017.
 
+Shipping Efficiency: 
 
 
 
