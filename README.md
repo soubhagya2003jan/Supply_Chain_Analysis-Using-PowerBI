@@ -36,7 +36,18 @@ Including Customer Insights, Shipping Efficiency, Sales Composition and Geograph
   - Total customers by year
   - Profit by customer segment
   - top 10 customers
+    
 • Shipping efficiency
-  - 
+  - Average Shipping delay in hours
+  - Total Order Items Delivered By Different Shipping Mode And Country Served
+  - Total Orders Items by Order Status
+
+• Map 
+  - Orders by country and the rspective city
+
+• Sales Decomposition 
+  - Sales breakdown by market, customer segment, department name, category name, product name
+
+
 
 
