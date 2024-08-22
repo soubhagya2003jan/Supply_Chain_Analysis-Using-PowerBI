@@ -60,5 +60,10 @@ Summary of the insights
 
 𝐒𝐚𝐥𝐞𝐬 The majority of profits are generated from regular consumers and corporate clients.
 
+Recommendations
+--
+- To address the high percentage of late shipments, I recommend gathering insights from the supply chain team and analyzing any issues that might be causing delays or other delivery problems.
+- out of 11 departments 6 are in loses, i would recommend doing a financial analysis to identify key inefficiency and also try to implent any cost cutting measures if possible to remain profitable in those departments.
+
 
 
